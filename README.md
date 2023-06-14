@@ -1,4 +1,4 @@
-### Projeto Focus Timer
+### Projeto GitFav
 
 Projeto com objetivo de colocar em prática todas as ferramentas: html, css e js
 
